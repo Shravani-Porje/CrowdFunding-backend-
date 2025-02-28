@@ -1,2 +1,2 @@
-# CrowdFunding-backend-
-This includes the both frontend and backend for the crowdfunding project.
+# CrowdFunding-backend
+This includes the backend for the crowdfunding project using expressJs and nodejs which includes models,routes,controllers,middleware.
